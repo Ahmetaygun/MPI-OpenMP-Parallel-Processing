@@ -62,5 +62,4 @@ Küçük ölçekli işlemlerde OpenMP, düşük senkronizasyon maliyeti ve hızl
 
 Büyük ölçekli veri ve dağıtık sistemler için MPI, daha iyi ölçeklenebilirlik sunduğundan tercih edilmelidir.
 
-Hibrit bir yaklaşım olarak MPI+OpenMP kombinasyonu, hem büyük veri işleme hem de işlemci içi paralellik açısından en verimli sonuçları verebilir.
  
